@@ -1,0 +1,11 @@
+C:\Users\krzys\source\repos\infwin\infwin\bin\Debug\infwin.exe.config
+C:\Users\krzys\source\repos\infwin\infwin\bin\Debug\infwin.exe
+C:\Users\krzys\source\repos\infwin\infwin\bin\Debug\infwin.pdb
+C:\Users\krzys\source\repos\infwin\infwin\obj\Debug\infwin.csproj.AssemblyReference.cache
+C:\Users\krzys\source\repos\infwin\infwin\obj\Debug\infwin.Form1.resources
+C:\Users\krzys\source\repos\infwin\infwin\obj\Debug\infwin.Properties.Resources.resources
+C:\Users\krzys\source\repos\infwin\infwin\obj\Debug\infwin.csproj.GenerateResource.cache
+C:\Users\krzys\source\repos\infwin\infwin\obj\Debug\infwin.csproj.CoreCompileInputs.cache
+C:\Users\krzys\source\repos\infwin\infwin\obj\Debug\infwin.exe
+C:\Users\krzys\source\repos\infwin\infwin\obj\Debug\infwin.pdb
+C:\Users\krzys\source\repos\infwin\infwin\obj\Debug\infwin.Form2.resources
